@@ -20,8 +20,6 @@ public class Day2 {
         System.out.println("The result is: ");
         solve(meal_cost, tip_percent, tax_percent);
 
-
-
         scanner.close();
     }
 
